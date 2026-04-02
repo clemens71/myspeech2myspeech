@@ -30,8 +30,6 @@ Output:
 4. Upload your `message.wav` and voice samples when prompted
 5. Run the pipeline cells
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/clemens71/REPONAME/blob/main/fancy_voice.ipynb)
-
 ## Tech Stack
 
 - [OpenAI Whisper](https://github.com/openai/whisper) — speech-to-text
